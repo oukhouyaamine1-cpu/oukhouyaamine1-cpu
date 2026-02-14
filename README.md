@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**oukhouyaamine1-cpu/oukhouyaamine1-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Frontend.✨
 
-Here are some ideas to get you started:
+```ini
+Older than a blade of grass and younger than a mountain.
+— said a Wise Man
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```css
+Make yourself do what you dont want to until you can do exactly what you want to.
+— Lawrence
+```
+
+---
+
+## 🙋‍♂️ About Me
+
+🎓 Self-taught Developer  
+💻 Currently learning HTML, CSS & JavaScript  
+🎯 Goal: Become a Professional Web Developer  
+🐧 Interested in Cybersecurity & Kali Linux  
+🚀 Building projects to level up every day  
+
+---
+
+## 🛠️ Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" />
+
+---
+
+## 🔥 Current Focus
+
+- 🌱 Learning JavaScript deeply
+- 🧠 Improving problem-solving skills
+- ⚡ Building real projects
+- 🎯 Preparing for freelance work
+
+---
+
+## 📫 Connect With Me
+
+💼 Future Freelancer  
+🌍 Morocco 🇲🇦  
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
