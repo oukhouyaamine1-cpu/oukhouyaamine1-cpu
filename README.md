@@ -18,14 +18,15 @@ Make yourself do what you dont want to until you can do exactly what you want to
 🎓 Self-taught Developer  
 💻 Currently learning HTML, CSS & JavaScript  
 🎯 Goal: Become a Professional Web Developer  
-🐧 Interested in Cybersecurity & Kali Linux  
 🚀 Building projects to level up every day  
 
 ---
 
+
+
 ## 🛠️ Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode," />
 
 ---
 
