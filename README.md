@@ -17,7 +17,7 @@ Make yourself do what you dont want to until you can do exactly what you want to
 
 🎓 Self-taught Developer  
 💻 Currently learning HTML, CSS & JavaScript  
-🎯 Goal: Become a Professional Web Developer  
+🎯 Goal: Become a Professional Full-stack Developer  
 🚀 Building projects to level up every day  
 
 ---
