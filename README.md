@@ -1,5 +1,5 @@
 
-##  Hi There!👋
+##  Hi👋
 
 ```ini
 Older than a blade of grass and younger than a mountain.
